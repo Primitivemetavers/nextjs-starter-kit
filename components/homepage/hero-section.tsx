@@ -22,13 +22,13 @@ export default function HeroSection() {
                 </Link>
 
                 <Link
-                    href="https://discord.gg/HUcHdrrDgY"
+                    href="/disboard"
                     target='_blank'
                     className="mt-5"
-                    aria-label="Join Discord (opens in a new tab)"
+                    aria-label="Check Disboard (opens in a new tab)"
                 >
                     <Button variant="outline" className="flex gap-1">
-                        Join Discord
+                        Join Disboard
                         <ArrowRight className='w-4 h-4' aria-hidden="true" />
                     </Button>
                 </Link>
